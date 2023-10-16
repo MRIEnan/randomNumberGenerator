@@ -50,8 +50,11 @@ The function returns a randomly generated integer within the specified range.
 
 This package is distributed under the MIT License. You are free to use it in your projects, both open-source and commercial. Please check the LICENSE file for more information.
 
-Contribution
-If you encounter any issues, have suggestions, or want to contribute to the package's development, please visit the [GitHub](https://github.com/MRIEnan/randomNumberGenerator) repository.
+## Contribution
+
+<p>
+If you encounter any issues, have suggestions, or want to contribute to the package's development, please visit the <a href="https://github.com/MRIEnan/randomNumberGenerator" target="_blank" style="color:white;font-weight:700">Github</a>  repository.
+</p>
 
 Author
 This package was created by IMENAN.
