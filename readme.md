@@ -9,7 +9,7 @@ This npm package provides a simple and easy-to-use JavaScript function to genera
 To use this package, you can install it via npm:
 
 ```bash
-npm install random-number-generator
+npm install e-generate-random
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ You can use this package by requiring it in your JavaScript/Node.js code. Here's
 
 ```javaScript
 
-const generateRandomNumber = require('random-number-generator');
+const generateRandomNumber = require("e-generate-random");
 
 const randomNum = generateRandomNumber();
 console.log(randomNum); // Output: A random number between 1 and 100
@@ -27,7 +27,7 @@ console.log(randomNum); // Output: A random number between 1 and 100
 You can also specify custom start and end boundaries:
 
 ```javaScript
-const generateRandomNumber = require('random-number-generator');
+const generateRandomNumber = require("e-generate-random");
 
 const randomNum = generateRandomNumber(10, 20); // Generates a random number between 10 and 20
 console.log(randomNum);
