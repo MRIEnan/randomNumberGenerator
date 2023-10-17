@@ -14,6 +14,4 @@ function generateRandomNumber(end = 100, start = 1) {
   }
 }
 
-// export const generateRandomNumber = generateRandomNumberFunc;
-
-module.exports = generateRandomNumber;
+export default generateRandomNumber;
